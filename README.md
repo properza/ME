@@ -38,7 +38,7 @@
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://remix.run/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/remix.png" alt="remix" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios/50/000000/remix.png" alt="remixjs" width="40" height="40"/>
   </a>
 </p>
 
