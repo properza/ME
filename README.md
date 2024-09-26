@@ -1,78 +1,54 @@
-<h1 align="center">Hi there, I'm M! 👋</h1>
+# Hello, I'm [Your Name]! 👋
 
+## 👨‍💻 About Me:
+- 🚀 Passionate Full-Stack Developer
+- 🧠 Always learning and exploring new technologies
+- 🎯 Focused on building high-performance web applications
+
+## 🛠️ Technologies & Tools:
 <p align="center">
-  A passionate developer always excited to learn new things and build amazing projects!
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <!-- NestCSS -->
+  <img src="https://img.shields.io/badge/NestCSS-F06529?style=for-the-badge&logo=css3&logoColor=white" alt="NestCSS" />
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <!-- Vite -->
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <!-- Remix -->
+  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" />
+  <!-- Axios -->
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <!-- Reducer -->
+  <img src="https://img.shields.io/badge/Reducer-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Reducer" />
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+## 🌱 I’m currently learning:
+- 💻 Next.js
+- 📊 Data Structures & Algorithms
+
+## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+## 📫 How to reach me:
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- Email: [your.email@example.com](mailto:your.email@example.com)
 
 ---
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/vite.png" alt="vite" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://remix.run/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/remix.png" alt="remixjs" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 🚀 Projects:
-
-- 💻 [Awesome Project 1](https://github.com/yourusername/awesome-project-1) - A description of the project.
-- 🌐 [Awesome Project 2](https://github.com/yourusername/awesome-project-2) - Another cool project description.
-
----
-
-### 📈 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="github stats" width="400"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="top languages" width="400"/>
-</p>
-
----
-
-### 🌟 Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter" width="40" height="40"/>
-  </a>
-  <a href="https://dev.to/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/windows/50/000000/dev.png" alt="dev.to" width="40" height="40"/>
-  </a>
-</p>
+✨ *"Code is like humor. When you have to explain it, it’s bad."* ✨
