@@ -1,7 +1,8 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Pik! 👋
 
 ## 👨‍💻 About Me:
-- 🚀 Passionate Full-Stack Developer
+- 🚀 Passionate Front-End Developer
+- 💻 Moving towards Full-Stack
 - 🧠 Always learning and exploring new technologies
 - 🎯 Focused on building high-performance web applications
 
@@ -35,6 +36,10 @@
   <img src="https://img.shields.io/badge/Reducer-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Reducer" />
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <!-- Figma -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <!-- Postman -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ## 🌱 I’m currently learning:
@@ -43,12 +48,11 @@
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=properza&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ## 📫 How to reach me:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: pikza_classic@hotmail.com
 
 ---
-✨ *"Code is like humor. When you have to explain it, it’s bad."* ✨
+✨ *"If it works, don't touch it."* ✨
